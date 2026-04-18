@@ -136,7 +136,7 @@ Feel free to fork this repo and submit a pull request.
 
 * LinkedIn: *(https://www.linkedin.com/)*
 * GitHub: *(https://github.com/Ahsan-Mudassar)*
-
+* live demo: *(https://blog-app-tau-pink.vercel.app/)*
 ---
 
 ## ⭐ Support
