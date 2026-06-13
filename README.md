@@ -1,11 +1,11 @@
-# 📝 Blog App
+# Blog App
 
 A full-stack Blog Application built with **React**, **Appwrite**, and **Redux Toolkit**.
 Users can create, edit, delete, and read blog posts with authentication support.
 
 ---
 
-## 🚀 Features
+## Features
 
 *  User Authentication (Login / Signup)
 *  Create, Edit, Delete Posts
@@ -18,7 +18,7 @@ Users can create, edit, delete, and read blog posts with authentication support.
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 **Frontend:**
 
@@ -33,39 +33,9 @@ Users can create, edit, delete, and read blog posts with authentication support.
 
 ---
 
-## 📂 Folder Structure
+## Installation & Setup
 
-```
-src/
-│
-├── components/
-│   ├── PostForm.jsx
-│   ├── PostCard.jsx
-│   ├── RTE.jsx
-│   └── UI Components
-│
-├── pages/
-│   ├── Home.jsx
-│   ├── Post.jsx
-│   ├── AddPost.jsx
-│   ├── EditPost.jsx
-│   └── Spinner.jsx
-│
-├── appwrite/
-│   ├── auth.js
-│   └── database.js
-│
-├── store/
-│   └── redux store files
-│
-└── App.jsx
-```
-
----
-
-## ⚙️ Installation & Setup
-
-### 1️⃣ Clone the Repository
+###  Clone the Repository
 
 ```bash
 git clone https://github.com/your-username/blog-app.git
@@ -74,7 +44,7 @@ cd blog-app
 
 ---
 
-### 2️⃣ Install Dependencies
+###  Install Dependencies
 
 ```bash
 npm install
@@ -82,7 +52,7 @@ npm install
 
 ---
 
-### 3️⃣ Setup Environment Variables
+###  Setup Environment Variables
 
 Create a `.env` file in root and add:
 
@@ -96,7 +66,7 @@ VITE_APPWRITE_BUCKET_ID=your_bucket_id
 
 ---
 
-### 4️⃣ Run the App
+### Run the App
 
 ```bash
 npm run dev
@@ -115,7 +85,7 @@ npm run dev
 
 ---
 
-## 🧠 What I Learned
+## What I Learned
 
 * Managing global state using Redux Toolkit
 * Handling async operations with API calls
@@ -125,21 +95,21 @@ npm run dev
 
 ---
 
-## 🤝 Contributing
+## Contributing
 
 Contributions are welcome!
 Feel free to fork this repo and submit a pull request.
 
 ---
 
-## 📧 Contact
+## Contact
 
 * LinkedIn: *(https://www.linkedin.com/)*
 * GitHub: *(https://github.com/Ahsan-Mudassar)*
 * live demo: *(https://blog-app-tau-pink.vercel.app/)*
 ---
 
-## ⭐ Support
+## Support
 
 If you like this project, give it a ⭐ on GitHub!
 
